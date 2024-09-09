@@ -19,7 +19,7 @@ The goal is to help QA engineers and developers enhance their testing process by
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ai-test-case-generator.git
+git clone https://github.com/jpequeno96/ai-test-case-generator.git
 cd ai-test-case-generator
 ```
 
